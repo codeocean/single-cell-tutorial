@@ -1,0 +1,11 @@
+name: sc-analysis-tutorial
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - anndata==0.9.2
+  - leidenalg==0.10.1
+  - matplotlib==3.7.2
+  - pandas==2.0.3
+  - scanpy==1.9.5
+prefix: /opt/conda
