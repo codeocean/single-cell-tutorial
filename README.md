@@ -12,6 +12,8 @@ Data Asset Metadata
 
 Title: Single Cell Tutorial - 3k PBMCs
 
+Folder name: filtered_gene_bc_matrices
+
 Description: Peripheral Blood Mononuclear Cells (PBMC) dataset freely available from 10X Genomics. There are 2,700 single cells that were sequenced on the Illumina NextSeq 500. The raw data can be found at https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
 
 
